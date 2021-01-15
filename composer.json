@@ -14,13 +14,13 @@
         }
     ],
     "require": {
-        "silverstripe/cms": "^4.4",
-        "unclecheese/silverstripe-graphql-forms": "*"
+        "silverstripe/cms": "^4.4"
     },
     "autoload": {
         "psr-4": {
             "SilverStripe\\Gatsby\\": "src/"
         }
     },
+    "minimum-stability": "dev",
     "prefer-stable": true
 }
