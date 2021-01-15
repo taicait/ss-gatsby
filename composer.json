@@ -1,5 +1,5 @@
 {
-    "name": "silverstripe/ss-gatsby",
+    "name": "taicait/ss-gatsby",
     "description": "SilverStripe Gatsby fixed",
     "type": "silverstripe-vendormodule",
     "license": "MIT",
@@ -9,11 +9,11 @@
     ],
     "authors": [
         {
-            "name": "Stevie Mayhew",
-            "homepage": "https://www.stevie.co.nz"
+            "name": "Tran Tai",
+            "homepage": "https://undigital.com.au/"
         },
+            "name": "Tran Tai"
         {
-            "name": "Uncle Cheese"
         }
     ],
     "require": {
