@@ -1,0 +1,30 @@
+{
+    "name": "silverstripe/ss-gatsby",
+    "description": "SilverStripe Gatsby fixed",
+    "type": "silverstripe-vendormodule",
+    "license": "MIT",
+    "keywords": [
+        "silverstripe",
+        "gatsby"
+    ],
+    "authors": [
+        {
+            "name": "Stevie Mayhew",
+            "homepage": "https://www.stevie.co.nz"
+        },
+        {
+            "name": "Uncle Cheese"
+        }
+    ],
+    "require": {
+        "silverstripe/cms": "^4.4",
+        "unclecheese/silverstripe-graphql-forms": "*"
+    },
+    "autoload": {
+        "psr-4": {
+            "SilverStripe\\Gatsby\\": "src/"
+        }
+    },
+    "minimum-stability": "dev",
+    "prefer-stable": true
+}
